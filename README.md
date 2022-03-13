@@ -16,6 +16,8 @@ RESULT
 
 
 SUMMARY
-Based on the results, Vine member did not shwo bias when rating the products that the number fo 5-star ratings was about 5% less than Non-Vine members(52.38% VS 57.80%)
-Runing the same analysis for different datasets of different product categories can show a bigger picture of the reviews by Vine members bias.
+
+
+- Based on the results, Vine member did not shwo bias when rating the products that the number fo 5-star ratings was about 5% less than Non-Vine members(52.38% VS 57.80%)
+- Runing the same analysis for different datasets of different product categories can show a bigger picture of the reviews by Vine members bias.
 ![4](https://user-images.githubusercontent.com/94014863/158068715-1c8ba977-5b2b-4ba0-a9db-6149ba147d6c.PNG)
